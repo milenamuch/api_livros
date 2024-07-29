@@ -2,7 +2,7 @@
 Esta simples API foi criada a partir da aula do Jhonatan de Souza no canal [DEV Aprender](https://www.youtube.com/@DevAprender).
 A aula está disponível neste [link](https://www.youtube.com/watch?v=FBLAV1SbJFk).
 
-## Objetivo 🎯
+## Objetivo 🎯  
 Criar uma API que disponibiliza, consulta, criação, edição e exclusão de livros. 📚
 
 ## Informações do projeto ✏️
