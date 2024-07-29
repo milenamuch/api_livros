@@ -3,7 +3,7 @@ Esta simples API foi criada a partir da aula do Jhonatan de Souza no canal [DEV 
 A aula está disponível neste [link](https://www.youtube.com/watch?v=FBLAV1SbJFk).
 
 ## Objetivo 🎯  
-Criar uma API que disponibiliza, consulta, criação, edição e exclusão de livros. 📚
+Criar uma API que disponibiliza criação, visualização, edição e exclusão de livros. 📚
 
 ## Informações do projeto ✏️
 * **Linguagem**: Python
